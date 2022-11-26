@@ -1,0 +1,13 @@
+/* li:nth-child(even) {
+  background-color: aqua;
+}
+li:nth-child(odd) {
+  background-color: blanchedalmond;
+} */
+
+table,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
