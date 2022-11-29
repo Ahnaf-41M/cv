@@ -7,16 +7,15 @@ h1,
 h3 {
   color: #66bfbf;
 }
-
-table {
-  text-align: left;
-  font-size: 18;
-}
-
 hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
   width: 5%;
+}
+
+table {
+  text-align: left;
+  font-size: 18;
 }
