@@ -1,6 +1,6 @@
 body {
-  padding: 20px;
   background-color: aliceblue;
+  padding: 20px;
 }
 
 h1,
@@ -16,6 +16,6 @@ hr {
 }
 
 table {
-  text-align: left;
   font-size: 18;
+  text-align: left;
 }
