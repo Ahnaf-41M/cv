@@ -15,6 +15,10 @@ hr {
   width: 5%;
 }
 
+.hv:hover {
+  background-color: goldenrod;
+  width: 20%;
+}
 table {
   font-size: 18;
   text-align: left;
